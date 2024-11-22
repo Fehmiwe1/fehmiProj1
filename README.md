@@ -12,7 +12,7 @@ This is the second paragraph.
 - First element
 - Second element
 
-[Link text](https://example.com)
+[Link text](https://github.com/Fehmiwe1/fehmiProj1/blob/main/thinking.png)
 
 
 ![Alt text]([https://example.com/image.jpg](https://images.app.goo.gl/8Bapqn3mgwUsxV6d6)
